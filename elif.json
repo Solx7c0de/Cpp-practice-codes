@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    
+    int sum;
+    cin>>sum;
+    
+    if (sum<10){
+        
+      cout<<"yes";}
+
+    else {
+      
+      cout<<"no";}
+    
+    return 0;
+}
