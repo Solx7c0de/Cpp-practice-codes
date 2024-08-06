@@ -50,8 +50,7 @@ int binsum(int x, int y, int z)
          finnum *= 10;
          finnum+=1;
         }
-     
-      p = reverse(finnum);
+    p = reverse (finnum);
       return p;
        
 }
